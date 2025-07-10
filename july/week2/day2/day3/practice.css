@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+.nav-logo{
+    background-color: red;
+}
+.nav-list{
+    background-color: blue;
+    width: 60%;
+}
+ul{
+    display:flex;
+    justify-content: space-around;
+    list-style: none;
+}
